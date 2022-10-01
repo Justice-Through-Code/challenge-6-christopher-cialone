@@ -41,8 +41,6 @@ def favorite_restaurant():
     #        "address" : "116th & Broadway, NY 10016",
     #        "favorite_dish" : "Chicken BLT Sandwich"
     #    }
-    name = 'restaurant name'
-    address = 'restaurant address' 
     favorite_restaurant['name'] = name
     favorite_restaurant['address'] = address
     favorite_restaurant['favorite_dish'] = favorite_dish
